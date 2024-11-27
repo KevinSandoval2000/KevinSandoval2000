@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KevinSandoval2000?tab=followers">
+  <a>
     <img src="https://img.shields.io/github/followers/KevinSandoval2000.svg?style=social&label=Followers" alt="GitHub followers">
   </a>
 </p>
