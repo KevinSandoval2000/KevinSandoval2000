@@ -13,10 +13,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+KevinSandoval2000..."></a>
 
-![GIF Animado](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJxbnAzc280YW1kMjQwbWQ2MGpmdjJnbWVzcXVvZms2cThmbm0wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
-
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=15Ej9xt1acEKf7WhbD9Q1dB83RLjtmbuB" alt="Imagen de Google Drive">
+</p>
 
 <br>
 
