@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a>
+  <a href="https://github.com/KevinSandoval2000?tab=followers">
     <img src="https://img.shields.io/github/followers/KevinSandoval2000.svg?style=social&label=Followers" alt="GitHub followers">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KevinSandoval2000/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+KevinSandoval2000..."></a>
+  <a href="https://github.com/KevinSandoval2000"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+KevinSandoval2000..."></a>
 
 </p>
 
