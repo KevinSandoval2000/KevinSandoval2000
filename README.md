@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/KevinSandoval2000/count.svg">
@@ -29,14 +29,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :school::technologist: Actualmente soy estudiante de la [Facultad de Ingeniería en Ciencias y Sistemas](https://portal.ingenieria.usac.edu.gt/) en la [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt/)
+  <a href="https://drive.google.com/file/d/1V_c0QYbFKc2-kCdqVyZuzsLCAKXuwMNV/view?usp=sharing">
+    <img src="https://drive.google.com/uc?id=1V_c0QYbFKc2-kCdqVyZuzsLCAKXuwMNV" alt="Icono de la USAC" width="25" height="25"/>
+  </a>
+
+- :technologist: Me gusta usar la programación para resolver `Problemas`.
+- :nerd_face: Siempre `el querer aprender nuevos lenguajes`.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -78,9 +77,24 @@
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://img.shields.io/badge/Proverbios%2019%3A21-Muchos%20planes%20hay%20en%20el%20coraz%C3%B3n%20del%20hombre%2C%20pero%20solo%20el%20prop%C3%B3sito%20del%20SE%C3%91OR%20se%20cumplir%C3%A1-%23FF5733?style=for-the-badge&logoColor=white">
+  </a>
 </p>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://img.shields.io/badge/Proverbios%2016%3A3:4-Pon%20en%20manos%20del%20SE%C3%91OR%20todas%20tus%20obras%20y%20tus%20proyectos%20se%20cumplir%C3%A1n-%23FF5733?style=for-the-badge&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://img.shields.io/badge/Proverbios%2024%3A3:4-Toda%20empresa%20tiene%20por%20fundamento%20planes%20sensatos%2C%20se%20fortalece%20mediante%20el%20sentido%20com%C3%BAn%2C%20y%20prospera%20manteni%C3%A9ndose%20al%20d%C3%ADa%20en%20todo-%23FF5733?style=for-the-badge&logoColor=white">
+  </a>
+</p>
+
+
+
 
 </br></br>
 	
