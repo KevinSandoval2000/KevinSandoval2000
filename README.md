@@ -128,7 +128,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1gTbkoTS6ixolAlUM8OpBdJWkNrKT_fba" alt="Muestra">
+  <img src="https://drive.google.com/uc?id=1gTbkoTS6ixolAlUM8OpBdJWkNrKT_fba" width="640px" alt="Muestra">
 </p>
 
 </br></br>
