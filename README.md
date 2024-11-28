@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"><img src="https://drive.google.com/uc?export=view&id=1WuunsaTzdXuaf3C2bsNicG3H8HnuKpUt" width="50px">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/KevinSandoval2000/count.svg">
