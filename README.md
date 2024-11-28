@@ -112,17 +112,17 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a>
     <img src="https://img.shields.io/badge/Proverbios%2019%3A21-Muchos%20planes%20hay%20en%20el%20coraz%C3%B3n%20del%20hombre%2C%20pero%20solo%20el%20prop%C3%B3sito%20del%20SE%C3%91OR%20se%20cumplir%C3%A1-%23FF5733?style=for-the-badge&logoColor=white">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a>
     <img src="https://img.shields.io/badge/Proverbios%2016%3A3:4-Pon%20en%20manos%20del%20SE%C3%91OR%20todas%20tus%20obras%20y%20tus%20proyectos%20se%20cumplir%C3%A1n-%23FF5733?style=for-the-badge&logoColor=white">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a>
     <img src="https://img.shields.io/badge/Proverbios%2024%3A3:4-Toda%20empresa%20tiene%20por%20fundamento%20planes%20sensatos%2C%20se%20fortalece%20mediante%20el%20sentido%20com%C3%BAn%2C%20y%20prospera%20manteni%C3%A9ndose%20al%20d%C3%ADa%20en%20todo-%23FF5733?style=for-the-badge&logoColor=white">
   </a>
 </p>
