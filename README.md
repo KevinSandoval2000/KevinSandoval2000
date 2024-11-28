@@ -90,13 +90,24 @@
     <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
+  <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
+   </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> IDEs & Softwares
-
+### <picture> <img src = "https://drive.google.com/uc?export=view&id=1OWq8rQRpglPFfpEBlZQC_cOzjZUEYv-l" width="50px" ></picture> IDEs & Softwares
+<p align="center"> 
+  <picture> <img src = "https://drive.google.com/uc?export=view&id=16A1dOAuaVaMdaVNaxABQ63OAHZv5QkTA" width="50px" ></picture>
+  <picture> <img src = "https://drive.google.com/uc?export=view&id=1WQKFRtN9VdZDEeF2IdixAx00PqFoJBLQ" width="50px" ></picture>
+  <picture> <img src = "https://drive.google.com/uc?export=view&id=1eJfedl6SZ2AR65upp8d45-qDW01L_67n" width="50px" ></picture>
+  <picture> <img src = "https://drive.google.com/uc?export=view&id=1xJ58uiHpUvFi5QhUgARrIOMxhpI1RrHW" width="50px" ></picture>
+  <picture> <img src = "https://drive.google.com/uc?export=view&id=1nxw166V5oq06JvCruMmuybl96dcc4qyf" width="50px" ></picture>
+	
+</p>
 
 ---
 
