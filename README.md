@@ -12,7 +12,7 @@
 
 <p align="center">
 	
-  <a href="https://github.com/KevinSandoval2000"><img src = "https://drive.google.com/uc?export=view&id=1S31tMyxOrswZ6WkWw_AkZS2VRrZGluLH" width="200px"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+KevinSandoval2000..."><img src = "https://drive.google.com/uc?export=view&id=1w0TbmktzdLAEI4TNyR0Gln2ma_cPU4ck" width="200px"></a>
+  <a href="https://github.com/KevinSandoval2000"><img src = "https://drive.google.com/uc?export=view&id=1S31tMyxOrswZ6WkWw_AkZS2VRrZGluLH" width="100px"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+KevinSandoval2000..."><img src = "https://drive.google.com/uc?export=view&id=1w0TbmktzdLAEI4TNyR0Gln2ma_cPU4ck" width="100px"></a>
 
 </p>
 
